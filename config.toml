@@ -1,3 +1,3 @@
-baseURL = "http://example.org/"
+baseURL = "https://afreach.github.io/bible/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "아프리치팀의 성경읽기"
